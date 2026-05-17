@@ -87,5 +87,5 @@ jupyter notebook airbnb_analysis.ipynb
 ## Author
 
 **Yusra Imran Vekriwala**  
-MSc Data Analytics for Business and Society — Ca' Foscari University of Venice, Italy  
+MSc Data Analytics for Business and Society; Università Ca' Foscari, Italia 
 [LinkedIn](https://www.linkedin.com/in/yusra-vekriwala/) · [GitHub](https://github.com/yusravekriwala)
